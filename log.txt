@@ -1,0 +1,237 @@
+﻿se logueo un cliente Fecha: 31/3/2015   Hora: 12:18:17
+Se han insertado datos en la tabla clientes Fecha: 31/3/2015   Hora: 12:18:33
+consulta de las tabla Clientes Fecha: 31/3/2015   Hora: 12:19:0
+salio de la consulta de cliente a la interfaz cliente Fecha: 31/3/2015   Hora: 12:19:18
+Cerro Sesión Fecha: 31/3/2015   Hora: 12:19:20
+se logueo un empleado Fecha: 31/3/2015   Hora: 12:19:41
+Se han insertado datos en la tabla empleados Fecha: 31/3/2015   Hora: 12:20:33
+consulta de las tabla Empleados Fecha: 31/3/2015   Hora: 12:20:47
+salio de la consulta de empleado a la interfaz empleado Fecha: 31/3/2015   Hora: 12:21:0
+Cerro Sesión Fecha: 31/3/2015   Hora: 12:21:3
+se logueo un gerente Fecha: 31/3/2015   Hora: 12:21:21
+Se han insertado datos en la tabla cuentas : Fecha: 31/3/2015   Hora: 12:22:0
+consulta de las tablas Empleados, Clientes, Cuentas Fecha: 31/3/2015   Hora: 12:22:15
+Salio de la consulta de gerente a la interfaz gerente Fecha: 31/3/2015   Hora: 12:22:27
+Cerro Sesión Fecha: 31/3/2015   Hora: 12:22:29
+se logueo un cliente Fecha: 31/3/2015   Hora: 17:4:5
+consulta de las tabla Clientes Fecha: 31/3/2015   Hora: 17:4:7
+se logueo un cliente Fecha: 31/3/2015   Hora: 17:10:51
+consulta de las tabla Clientes Fecha: 31/3/2015   Hora: 17:10:54
+se logueo un cliente Fecha: 31/3/2015   Hora: 17:38:35
+consulta de las tabla Clientes Fecha: 31/3/2015   Hora: 17:38:37
+se logueo un cliente Fecha: 31/3/2015   Hora: 17:59:11
+consulta de las tabla Clientes Fecha: 31/3/2015   Hora: 17:59:14
+se logueo un cliente Fecha: 31/3/2015   Hora: 19:39:38
+consulta de las tabla Clientes Fecha: 31/3/2015   Hora: 19:39:41
+se han Actualizado datos de la tabla clientes Fecha: 31/3/2015   Hora: 19:40:10
+se logueo un cliente Fecha: 31/3/2015   Hora: 19:49:55
+consulta de las tabla Clientes Fecha: 31/3/2015   Hora: 19:49:57
+se han Actualizado datos de la tabla clientes Fecha: 31/3/2015   Hora: 19:50:31
+se han Actualizado datos de la tabla clientes Fecha: 31/3/2015   Hora: 19:56:40
+se logueo un cliente Fecha: 31/3/2015   Hora: 20:15:24
+consulta de las tabla Clientes Fecha: 31/3/2015   Hora: 20:15:26
+se han Actualizado datos de la tabla clientes Fecha: 31/3/2015   Hora: 20:16:41
+se logueo un cliente Fecha: 31/3/2015   Hora: 20:19:6
+consulta de las tabla Clientes Fecha: 31/3/2015   Hora: 20:19:21
+se logueo un gerente Fecha: 31/3/2015   Hora: 20:48:37
+se logueo un cliente Fecha: 31/3/2015   Hora: 20:56:21
+Cerro Sesión Fecha: 31/3/2015   Hora: 20:56:30
+se logueo un gerente Fecha: 31/3/2015   Hora: 20:56:37
+Cerro Sesión Fecha: 31/3/2015   Hora: 20:56:39
+se logueo un cliente Fecha: 31/3/2015   Hora: 20:57:53
+Cerro Sesión Fecha: 31/3/2015   Hora: 20:57:55
+se logueo un cliente Fecha: 1/4/2015   Hora: 9:45:9
+consulta de las tabla Clientes Fecha: 1/4/2015   Hora: 9:45:11
+se logueo un cliente Fecha: 1/4/2015   Hora: 9:47:36
+consulta de las tabla Clientes Fecha: 1/4/2015   Hora: 9:47:38
+se han Actualizado datos de la tabla clientes Fecha: 1/4/2015   Hora: 9:47:59
+se han Actualizado datos de la tabla clientes Fecha: 1/4/2015   Hora: 9:49:4
+se logueo un cliente Fecha: 1/4/2015   Hora: 10:17:9
+consulta de las tabla Clientes Fecha: 1/4/2015   Hora: 10:17:11
+se han Actualizado datos de la tabla clientes Fecha: 1/4/2015   Hora: 10:17:49
+se logueo un cliente Fecha: 1/4/2015   Hora: 10:35:53
+consulta de las tabla Clientes Fecha: 1/4/2015   Hora: 10:35:55
+se han Actualizado datos de la tabla clientes Fecha: 1/4/2015   Hora: 10:36:54
+se logueo un cliente Fecha: 1/4/2015   Hora: 10:39:49
+consulta de las tabla Clientes Fecha: 1/4/2015   Hora: 10:39:51
+se han Actualizado datos de la tabla clientes Fecha: 1/4/2015   Hora: 10:42:48
+se han Actualizado datos de la tabla clientes Fecha: 1/4/2015   Hora: 10:43:23
+se logueo un cliente Fecha: 1/4/2015   Hora: 10:50:58
+consulta de las tabla Clientes Fecha: 1/4/2015   Hora: 10:51:0
+se han Actualizado datos de la tabla clientes Fecha: 1/4/2015   Hora: 10:51:40
+se logueo un cliente Fecha: 1/4/2015   Hora: 10:56:26
+consulta de las tabla Clientes Fecha: 1/4/2015   Hora: 10:56:27
+se han Actualizado datos de la tabla clientes Fecha: 1/4/2015   Hora: 10:56:50
+se han Actualizado datos de la tabla clientes Fecha: 1/4/2015   Hora: 10:57:29
+se logueo un cliente Fecha: 1/4/2015   Hora: 11:3:49
+consulta de las tabla Clientes Fecha: 1/4/2015   Hora: 11:3:51
+se han Actualizado datos de la tabla clientes Fecha: 1/4/2015   Hora: 11:4:51
+salio de la consulta de cliente a la interfaz cliente Fecha: 1/4/2015   Hora: 11:5:12
+se logueo un cliente Fecha: 1/4/2015   Hora: 11:9:18
+consulta de las tabla Clientes Fecha: 1/4/2015   Hora: 11:9:19
+se logueo un cliente Fecha: 1/4/2015   Hora: 11:15:6
+consulta de las tabla Clientes Fecha: 1/4/2015   Hora: 11:15:8
+se logueo un empleado Fecha: 1/4/2015   Hora: 11:22:56
+consulta de las tabla Empleados Fecha: 1/4/2015   Hora: 11:23:2
+salio de la consulta de empleado a la interfaz empleado Fecha: 1/4/2015   Hora: 11:27:53
+Cerro Sesión Fecha: 1/4/2015   Hora: 11:27:55
+se logueo un cliente Fecha: 1/4/2015   Hora: 11:28:1
+consulta de las tabla Clientes Fecha: 1/4/2015   Hora: 11:28:3
+se han Actualizado datos de la tabla clientes Fecha: 1/4/2015   Hora: 11:28:20
+salio de la consulta de cliente a la interfaz cliente Fecha: 1/4/2015   Hora: 11:28:44
+Cerro Sesión Fecha: 1/4/2015   Hora: 11:28:46
+se logueo un empleado Fecha: 1/4/2015   Hora: 11:28:51
+consulta de las tabla Empleados Fecha: 1/4/2015   Hora: 11:28:52
+se logueo un empleado Fecha: 1/4/2015   Hora: 11:45:32
+consulta de las tabla Empleados Fecha: 1/4/2015   Hora: 11:45:33
+se han Actualizado datos de la tabla empleados Fecha: 1/4/2015   Hora: 11:46:18
+se logueo un empleado Fecha: 1/4/2015   Hora: 11:48:34
+consulta de las tabla Empleados Fecha: 1/4/2015   Hora: 11:48:36
+se han Actualizado datos de la tabla empleados Fecha: 1/4/2015   Hora: 11:50:0
+se logueo un empleado Fecha: 1/4/2015   Hora: 11:58:18
+consulta de las tabla Empleados Fecha: 1/4/2015   Hora: 11:58:20
+se han Actualizado datos de la tabla empleados Fecha: 1/4/2015   Hora: 11:59:43
+se han Actualizado datos de la tabla empleados Fecha: 1/4/2015   Hora: 12:0:7
+se han Actualizado datos de la tabla empleados Fecha: 1/4/2015   Hora: 12:0:40
+se han Actualizado datos de la tabla empleados Fecha: 1/4/2015   Hora: 12:1:15
+salio de la consulta de empleado a la interfaz empleado Fecha: 1/4/2015   Hora: 12:2:49
+Cerro Sesión Fecha: 1/4/2015   Hora: 12:2:52
+se logueo un gerente Fecha: 1/4/2015   Hora: 12:2:58
+consulta de las tablas Empleados, Clientes, Cuentas Fecha: 1/4/2015   Hora: 12:3:0
+se han eliminado datos de la tabla empleados Fecha: 1/4/2015   Hora: 12:4:14
+se han eliminado datos de la tabla clientes Fecha: 1/4/2015   Hora: 12:4:24
+se han eliminado datos de la tabla cuentas Fecha: 1/4/2015   Hora: 12:4:35
+Salio de la consulta de gerente a la interfaz gerente Fecha: 1/4/2015   Hora: 12:4:55
+Cerro Sesión Fecha: 1/4/2015   Hora: 12:4:57
+se logueo un empleado Fecha: 1/4/2015   Hora: 12:5:2
+consulta de las tabla Empleados Fecha: 1/4/2015   Hora: 12:5:5
+se logueo un gerente Fecha: 1/4/2015   Hora: 12:9:28
+consulta de las tablas Empleados, Clientes, Cuentas Fecha: 1/4/2015   Hora: 12:9:30
+Salio de la consulta de gerente a la interfaz gerente Fecha: 1/4/2015   Hora: 12:11:39
+se logueo un cliente Fecha: 1/4/2015   Hora: 12:24:28
+se logueo un empleado Fecha: 1/4/2015   Hora: 12:51:9
+consulta de las tabla Empleados Fecha: 1/4/2015   Hora: 12:51:13
+se han Actualizado datos de la tabla empleados Fecha: 1/4/2015   Hora: 12:51:35
+se logueo un gerente Fecha: 1/4/2015   Hora: 13:6:45
+se logueo un cliente Fecha: 2/4/2015   Hora: 10:7:1
+Se han insertado datos en la tabla clientes Fecha: 2/4/2015   Hora: 10:7:12
+consulta de las tabla Clientes Fecha: 2/4/2015   Hora: 10:7:20
+se han Actualizado datos de la tabla clientes Fecha: 2/4/2015   Hora: 10:7:50
+salio de la consulta de cliente a la interfaz cliente Fecha: 2/4/2015   Hora: 10:8:0
+Cerro Sesión Fecha: 2/4/2015   Hora: 10:8:2
+se logueo un empleado Fecha: 2/4/2015   Hora: 10:8:30
+Se han insertado datos en la tabla empleados Fecha: 2/4/2015   Hora: 10:9:3
+consulta de las tabla Empleados Fecha: 2/4/2015   Hora: 10:9:14
+se han Actualizado datos de la tabla empleados Fecha: 2/4/2015   Hora: 10:9:41
+salio de la consulta de empleado a la interfaz empleado Fecha: 2/4/2015   Hora: 10:9:47
+Cerro Sesión Fecha: 2/4/2015   Hora: 10:9:49
+se logueo un gerente Fecha: 2/4/2015   Hora: 10:9:55
+Se han insertado datos en la tabla cuentas : Fecha: 2/4/2015   Hora: 10:10:20
+ingresa a la interfez registrarse Fecha: 2/4/2015   Hora: 10:10:28
+se ha registrado un usuario Fecha: 2/4/2015   Hora: 10:10:53
+salio de la interfaz registrarse a gerente Fecha: 2/4/2015   Hora: 10:11:5
+consulta de las tablas Empleados, Clientes, Cuentas Fecha: 2/4/2015   Hora: 10:11:7
+se han eliminado datos de la tabla empleados Fecha: 2/4/2015   Hora: 10:11:22
+se han eliminado datos de la tabla clientes Fecha: 2/4/2015   Hora: 10:11:46
+se han eliminado datos de la tabla cuentas Fecha: 2/4/2015   Hora: 10:12:9
+Salio de la consulta de gerente a la interfaz gerente Fecha: 2/4/2015   Hora: 10:12:20
+se logueo un cliente Fecha: 5/4/2015   Hora: 10:13:53
+consulta de las tabla Clientes Fecha: 5/4/2015   Hora: 10:13:56
+se han Actualizado datos de la tabla clientes Fecha: 5/4/2015   Hora: 10:16:32
+se han Actualizado datos de la tabla clientes Fecha: 5/4/2015   Hora: 10:16:55
+salio de la consulta de cliente a la interfaz cliente Fecha: 5/4/2015   Hora: 10:17:6
+Se han insertado datos en la tabla clientes Fecha: 5/4/2015   Hora: 10:17:53
+Cerro Sesión Fecha: 5/4/2015   Hora: 10:18:24
+se logueo un empleado Fecha: 5/4/2015   Hora: 10:18:28
+consulta de las tabla Empleados Fecha: 5/4/2015   Hora: 10:18:31
+se han Actualizado datos de la tabla empleados Fecha: 5/4/2015   Hora: 10:19:1
+se han Actualizado datos de la tabla empleados Fecha: 5/4/2015   Hora: 10:19:26
+se han Actualizado datos de la tabla empleados Fecha: 5/4/2015   Hora: 10:19:39
+se han Actualizado datos de la tabla empleados Fecha: 5/4/2015   Hora: 10:23:54
+salio de la consulta de empleado a la interfaz empleado Fecha: 5/4/2015   Hora: 10:24:31
+Se han insertado datos en la tabla empleados Fecha: 5/4/2015   Hora: 10:24:51
+Cerro Sesión Fecha: 5/4/2015   Hora: 10:25:0
+se logueo un gerente Fecha: 5/4/2015   Hora: 10:25:6
+Se han insertado datos en la tabla cuentas : Fecha: 5/4/2015   Hora: 10:25:17
+ingresa a la interfez registrarse Fecha: 5/4/2015   Hora: 10:25:43
+se ha registrado un usuario Fecha: 5/4/2015   Hora: 10:25:58
+salio de la interfaz registrarse a gerente Fecha: 5/4/2015   Hora: 10:26:15
+consulta de las tablas Empleados, Clientes, Cuentas Fecha: 5/4/2015   Hora: 10:26:17
+se han eliminado datos de la tabla empleados Fecha: 5/4/2015   Hora: 10:26:28
+se han eliminado datos de la tabla clientes Fecha: 5/4/2015   Hora: 10:26:36
+se han eliminado datos de la tabla cuentas Fecha: 5/4/2015   Hora: 10:26:46
+Salio de la consulta de gerente a la interfaz gerente Fecha: 5/4/2015   Hora: 10:26:59
+Cerro Sesión Fecha: 5/4/2015   Hora: 10:27:1
+se logueo un empleado Fecha: 5/4/2015   Hora: 10:29:59
+se logueo un cliente Fecha: 5/4/2015   Hora: 10:48:14
+consulta de las tabla Clientes Fecha: 5/4/2015   Hora: 10:48:17
+salio de la consulta de cliente a la interfaz cliente Fecha: 5/4/2015   Hora: 10:50:37
+Cerro Sesión Fecha: 5/4/2015   Hora: 10:50:40
+se logueo un empleado Fecha: 5/4/2015   Hora: 10:50:46
+consulta de las tabla Empleados Fecha: 5/4/2015   Hora: 10:50:48
+salio de la consulta de empleado a la interfaz empleado Fecha: 5/4/2015   Hora: 10:51:2
+Cerro Sesión Fecha: 5/4/2015   Hora: 10:51:4
+se logueo un gerente Fecha: 5/4/2015   Hora: 10:51:9
+consulta de las tablas Empleados, Clientes, Cuentas Fecha: 5/4/2015   Hora: 10:51:13
+Salio de la consulta de gerente a la interfaz gerente Fecha: 5/4/2015   Hora: 10:51:15
+ingresa a la interfez registrarse Fecha: 5/4/2015   Hora: 10:51:17
+salio de la interfaz registrarse a gerente Fecha: 5/4/2015   Hora: 10:51:27
+Cerro Sesión Fecha: 5/4/2015   Hora: 10:51:33
+se logueo un cliente Fecha: 5/4/2015   Hora: 10:51:41
+consulta de las tabla Clientes Fecha: 5/4/2015   Hora: 10:51:42
+salio de la consulta de cliente a la interfaz cliente Fecha: 5/4/2015   Hora: 10:53:40
+consulta de las tabla Clientes Fecha: 5/4/2015   Hora: 10:53:42
+se logueo un cliente Fecha: 7/4/2015   Hora: 18:37:18
+consulta de las tabla Clientes Fecha: 7/4/2015   Hora: 18:37:20
+salio de la consulta de cliente a la interfaz cliente Fecha: 7/4/2015   Hora: 18:37:29
+Cerro Sesión Fecha: 7/4/2015   Hora: 18:37:30
+se logueo un gerente Fecha: 7/4/2015   Hora: 18:37:35
+consulta de las tablas Empleados, Clientes, Cuentas Fecha: 7/4/2015   Hora: 18:37:37
+Salio de la consulta de gerente a la interfaz gerente Fecha: 7/4/2015   Hora: 18:37:56
+Cerro Sesión Fecha: 7/4/2015   Hora: 18:38:3
+se logueo un cliente Fecha: 7/4/2015   Hora: 18:38:8
+consulta de las tabla Clientes Fecha: 7/4/2015   Hora: 18:38:10
+salio de la consulta de cliente a la interfaz cliente Fecha: 7/4/2015   Hora: 18:38:13
+Se han insertado datos en la tabla clientes Fecha: 7/4/2015   Hora: 18:38:20
+consulta de las tabla Clientes Fecha: 7/4/2015   Hora: 18:38:21
+se logueo un gerente Fecha: 28/4/2015   Hora: 20:31:56
+consulta de las tablas Empleados, Clientes, Cuentas Fecha: 28/4/2015   Hora: 20:33:13
+se logueo un gerente Fecha: 28/4/2015   Hora: 20:36:54
+se logueo un gerente Fecha: 28/4/2015   Hora: 21:11:37
+se logueo un gerente Fecha: 28/4/2015   Hora: 21:13:1
+se logueo un gerente Fecha: 29/4/2015   Hora: 18:54:45
+se logueo un gerente Fecha: 4/5/2015   Hora: 17:1:18
+se logueo un gerente Fecha: 4/5/2015   Hora: 17:6:12
+se logueo un gerente Fecha: 4/5/2015   Hora: 17:21:36
+se logueo un gerente Fecha: 4/5/2015   Hora: 17:42:30
+se logueo un gerente Fecha: 4/5/2015   Hora: 18:23:53
+ingresa a la interfez registrarse Fecha: 4/5/2015   Hora: 18:23:58
+se ha registrado un usuario Fecha: 4/5/2015   Hora: 18:24:9
+se logueo un gerente Fecha: 4/5/2015   Hora: 18:31:30
+ingresa a la interfez registrarse Fecha: 4/5/2015   Hora: 18:31:38
+se ha registrado un usuario Fecha: 4/5/2015   Hora: 18:31:46
+se logueo un gerente Fecha: 4/5/2015   Hora: 18:33:32
+ingresa a la interfez registrarse Fecha: 4/5/2015   Hora: 18:33:38
+se logueo un gerente Fecha: 4/5/2015   Hora: 18:43:53
+ingresa a la interfez registrarse Fecha: 4/5/2015   Hora: 18:43:56
+se ha registrado un usuario Fecha: 4/5/2015   Hora: 18:44:2
+se ha registrado un usuario Fecha: 4/5/2015   Hora: 18:45:47
+se logueo un cliente Fecha: 4/5/2015   Hora: 18:46:23
+se logueo un empleado Fecha: 4/5/2015   Hora: 18:46:23
+Se han insertado datos en la tabla empleados Fecha: 4/5/2015   Hora: 18:46:37
+consulta de las tabla Empleados Fecha: 4/5/2015   Hora: 18:48:23
+salio de la consulta de empleado a la interfaz empleado Fecha: 4/5/2015   Hora: 18:48:26
+Cerro Sesión Fecha: 4/5/2015   Hora: 18:48:28
+se logueo un gerente Fecha: 4/5/2015   Hora: 18:48:59
+ingresa a la interfez registrarse Fecha: 4/5/2015   Hora: 18:49:1
+se ha registrado un usuario Fecha: 4/5/2015   Hora: 18:49:10
+se logueo un gerente Fecha: 5/5/2015   Hora: 7:5:5
+ingresa a la interfez registrarse Fecha: 5/5/2015   Hora: 7:5:10
+se ha registrado un usuario Fecha: 5/5/2015   Hora: 7:5:21
+se logueo un gerente Fecha: 5/5/2015   Hora: 7:10:25
+ingresa a la interfez registrarse Fecha: 5/5/2015   Hora: 7:10:28
+se logueo un gerente Fecha: 5/5/2015   Hora: 7:13:51
+se logueo un gerente Fecha: 5/5/2015   Hora: 7:14:42
+se logueo un gerente Fecha: 5/5/2015   Hora: 7:16:14
+ingresa a la interfez registrarse Fecha: 5/5/2015   Hora: 7:16:16
+se ha registrado un usuario Fecha: 5/5/2015   Hora: 7:16:41
